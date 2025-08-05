@@ -86,6 +86,14 @@
  '(org-block ((t (:background "#e3e1d6" :extend t))))
  '(org-code ((t (:inherit (fixed-pitch)))))
  '(org-verbatim ((t (:inherit (fixed-pitch)))))
+ '(company-tooltip ((t (:background "#e3e1d6" :foreground "#2e2a26"))))
+ '(company-tooltip-selection ((t (:background "#a49f90" :foreground "#2e2a26" :weight bold))))
+ '(company-tooltip-common ((t (:foreground "#0e0e0a" :weight bold))))
+ '(company-tooltip-annotation ((t (:foreground "#7d7165"))))
+ '(company-scrollbar-bg ((t (:background "#d9d6c6"))))
+ '(company-scrollbar-fg ((t (:background "#a49f90"))))
+ '(company-preview ((t (:background "#c4c0aa" :foreground "#0e0e0a"))))
+ '(company-preview-common ((t (:foreground "#0e0e0a" :weight bold))))
  '(show-paren-match ((t (:background "#b2a891" :foreground "#2e2a26" :weight bold)))))
 
 
