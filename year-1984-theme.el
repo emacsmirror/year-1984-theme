@@ -54,7 +54,7 @@
                               :weight bold))))
  '(link ((t (:underline (:color foreground-color :style line :position nil)))))
  '(link-visited ((t (:foreground "#0e0e0a" :inherit (link)))))
- '(fringe ((t (:background "#0e0e0a"))))
+ '(fringe ((t (:background "#7d7165"))))
  '(header-line ((t (:box nil :foreground "#f7f6f3" :background "#e3e1d6" :inherit (mode-line)))))
  '(tooltip ((t (:foreground "#1a1a1a" :background "#c4c0aa" :inherit (variable-pitch)))))
  '(mode-line ((t (:box (:line-width (1 . 1) :color "#7a7265" :style nil) :foreground "#f0ede3" :background "#7a7265"))))
@@ -79,6 +79,13 @@
  '(rainbow-delimiters-depth-7-face ((t (:foreground "#5EBD3E"))))
  '(rainbow-delimiters-depth-8-face ((t (:foreground "#FFB900"))))
  '(rainbow-delimiters-depth-9-face ((t (:foreground "#F78200"))))
+ '(variable-pitch ((t (:family "Serif" :height 180 :foreground "#2e2a26"))))
+ '(org-level-1 ((t (:weight bold :height 1.3 :foreground "#0e0e0a"))))
+ '(org-level-2 ((t (:weight bold :height 1.2 :foreground "#1a1a1a"))))
+ '(org-level-3 ((t (:weight normal :height 1.1 :foreground "#2e2a26"))))
+ '(org-block ((t (:background "#e3e1d6" :extend t))))
+ '(org-code ((t (:inherit (fixed-pitch)))))
+ '(org-verbatim ((t (:inherit (fixed-pitch)))))
  '(show-paren-match ((t (:background "#b2a891" :foreground "#2e2a26" :weight bold)))))
 
 

@@ -4,9 +4,12 @@
 Macintosh computers released in 1984.  
 The goal is to capture the soft, warm nostalgia of vintage Apple hardware in your editor.
 
+The whole project has been inspired by a Mastodon post from [Michał M. Sapka](https://michal.sapka.pl) ... that I think got deleted ...
+Anyway, thanks for the inspiration Michał!
+
 ---
 
-## ✨ Main Features
+## Main Features
 
 - Color palette based on the Apple “Putty” beige tone (Pantone 453), characteristic of Macintosh models from 1984–1986  
 - Warm, sandy base tones with subtle highlights in khaki, light amber, and soft grays  
@@ -15,7 +18,7 @@ The goal is to capture the soft, warm nostalgia of vintage Apple hardware in you
 
 ---
 
-## 🧩 Installation
+## Installation
 
 ### Manual
 
@@ -29,30 +32,31 @@ The goal is to capture the soft, warm nostalgia of vintage Apple hardware in you
 
 ---
 
-## 🔧 Configuration Tips
+## Configuration Tips
 
 To maximize visual coherence and authenticity:
 
 - Disable tool-bar, menu-bar, and scroll-bar for a cleaner look  
 - Choose fonts like JetBrains Mono, Fira Code, or Source Code Pro  
 - Use font sizes around 110–130 to match the medium contrast theme  
-
+- Check my other projects: [steve](https://github.com/mastro35/steve) and [sixcolors-mode](https://github.com/mastro35/sixcolors-mode/tree/4124a8cf664b04a4bf4c39f7c3b7da3e480b99c8) to complete your Appleish setup!
+- If you prefer dark themes, consider [sixcolors-theme](https://github.com/mastro35/sixcolors-theme).
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ![1984](year-1984.png)
 
 ---
 
-## 📄 License
+##  License
 
 This theme is licensed under the **Apache License 2.0**. 
 See the `LICENSE` file in the repository for full terms.
 
 ---
 
-## 👤 Credits
+## Credits
 
 Created by **Davide Mastromatteo**
 
@@ -64,7 +68,7 @@ Contributions, feedback, and pull requests are welcome on GitHub.
 
 ---
 
-### 📚 Background on Apple Beige
+### Background on Apple Beige
 
 The early Macintosh models (128K, 512K, early Plus) used a custom beige paint based on Pantone 453, designed by Jerry Manock 
 and Apple’s early industrial design team.  
