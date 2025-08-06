@@ -1,5 +1,23 @@
+;;; year-1984-theme.el --- A retro-futuristic theme -*- lexical-binding: t; -*-
+
+;; Author: Davide Mastromatteo <mastro35@gmail.com>
+;; URL: https://github.com/mastro35/year-1984-theme
+;; Version: 1.0
+;; Package-Requires: ((emacs "27.1"))
+;; Keywords: themes, faces, colors
+;; SPDX-License-Identifier: Apache-2.0
+
+;;; Commentary:
+
+;; A retro-futuristic Emacs theme inspired by the original Apple beige color of the first
+;; 1984 Macintosh.
+
+;;; Code:
+
+
 (deftheme year-1984
-  "Created 2025-05-07 by Davide Mastromatteo.")
+  "A theme based on the original Putty color from Apple.
+Created on 2025-05-07 by Davide Mastromatteo.")
 
 (custom-theme-set-faces
  'year-1984
@@ -96,10 +114,11 @@
  '(company-preview-common ((t (:foreground "#0e0e0a" :weight bold))))
  '(show-paren-match ((t (:background "#b2a891" :foreground "#2e2a26" :weight bold)))))
 
-
-(provide-theme 'year-1984)
-
 ;;;###autoload
 (when load-file-name
   (add-to-list 'custom-theme-load-path
                (file-name-as-directory (file-name-directory load-file-name))))
+
+(provide-theme 'year-1984)
+
+;;; year-1984-theme.el ends here
