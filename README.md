@@ -38,7 +38,7 @@ To maximize visual coherence and authenticity:
 
 - Disable tool-bar, menu-bar, and scroll-bar for a cleaner look  
 - Choose fonts like JetBrains Mono, Fira Code, or Source Code Pro  
-- Use font sizes around 110–130 to match the medium contrast theme  
+- Try the BlexMono nerd font for a vintage look. On MacOS `brew install --cask font-blex-mono-nerd-font`
 - Check my other projects: [steve](https://github.com/mastro35/steve) and [sixcolors-mode](https://github.com/mastro35/sixcolors-mode/tree/4124a8cf664b04a4bf4c39f7c3b7da3e480b99c8) to complete your Appleish setup!
 - If you prefer dark themes, consider [sixcolors-theme](https://github.com/mastro35/sixcolors-theme).
 ---
