@@ -20,6 +20,15 @@ Anyway, thanks for the inspiration Michał!
 
 ## Installation
 
+### Melpa package
+
+This package is published on the Milkypostman’s Emacs Lisp Package Archive, better known as [MELPA](https://melpa.org/), the best repository for Emacs Packages out there. To install it, just add the Melpa repository to your init file and then
+
+```
+(use-package year-1984-theme :ensure t)
+(load-theme 'year-1984 t)
+```
+
 ### Manual
 
 - Clone or download the repository  
