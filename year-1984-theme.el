@@ -4,7 +4,7 @@
 ;; URL: https://github.com/mastro35/year-1984-theme
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "27.1"))
-;; Keywords: themes, faces, colors
+;; Keywords: themes, faces, colors, Apple, beige, light, pastel, vintage
 ;; SPDX-License-Identifier: Apache-2.0
 
 ;;; Commentary:
